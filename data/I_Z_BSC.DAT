@@ -1,0 +1,502 @@
+20 37 55 -47 16 25 Alp Indi
+20 55 12 -58 26 06 Bet Indi
+21 58 15 -54 58 07 Del Indi
+22 03 42 -56 45 42 Eps Indi
+20 44 24 -51 54 10 Eta Indi
+21 20 13 -53 25 42 The Indi
+20 49 50 -46 12 29 Zet Indi
+22 31 30 +50 18 30 Alp Lacertae
+22 23 46 +52 15 16 Bet Lacertae
+10 08 38 +11 56 33 Alp Leonis
+11 49 19 +14 32 39 Bet Leonis
+11 05 17 +07 18 33 Chi Leonis
+11 14 23 +20 29 47 Del Leonis
+09 46 08 +23 45 03 Eps Leonis
+10 07 36 +16 44 18 Eta Leonis
+10 20 14 +19 48 59 Gam1 Leonis
+10 20 15 +19 48 55 Gam2 Leonis
+11 24 12 +10 30 06 Iot Leonis
+09 24 56 +26 09 38 Kap Leonis
+09 32 00 +22 56 45 Lam Leonis
+09 53 03 +25 59 00 Mu Leonis
+09 41 25 +09 52 10 Omi Leonis
+11 16 55 -03 40 44 Phi Leonis
+10 00 29 +08 01 12 Pi Leonis
+10 33 05 +09 16 51 Rho Leonis
+11 21 23 +06 00 07 Sig Leonis
+11 28 11 +02 49 43 Tau Leonis
+11 14 30 +15 24 08 The Leonis
+11 37 12 -00 51 06 Ups Leonis
+09 32 13 +11 16 39 Xi Leonis
+10 16 58 +23 23 32 Zet Leonis
+10 28 10 +36 40 54 Bet Leonis Minoris
+05 32 57 -17 49 08 Alp Lepi
+05 28 28 -20 45 20 Bet Lepi
+05 51 32 -20 52 41 Del Lepi
+05 05 41 -22 21 52 Eps Lepi
+05 56 38 -14 10 02 Eta Lepi
+05 44 41 -22 26 47 Gam Lepi
+05 12 32 -11 51 48 Iot Lepi
+05 13 28 -12 56 09 Kap Lepi
+05 19 49 -13 10 18 Lam Lepi
+05 13 09 -16 12 00 Mu Lepi
+06 06 23 -14 56 10 The Lepi
+05 47 11 -14 49 13 Zet Lepi
+14 51 10 -16 03 44 Alp2 Librae
+15 17 16 -09 24 04 Bet Librae
+15 01 14 -08 32 19 Del Librae
+15 24 28 -10 20 23 Eps Librae
+15 35 49 -14 48 21 Gam Librae
+15 12 30 -19 48 37 Iot1 Librae
+15 42 14 -19 41 41 Kap Librae
+15 04 22 -25 18 05 Sig Librae
+15 38 57 -29 47 38 Tau Librae
+15 54 07 -16 44 38 The Librae
+15 37 20 -28 09 05 Ups Librae
+14 42 16 -47 24 34 Alp Lupi
+14 58 52 -43 09 13 Bet Lupi
+15 51 17 -33 38 31 Chi Lupi
+15 21 42 -40 39 55 Del Lupi
+15 23 01 -44 42 26 Eps Lupi
+16 00 27 -38 24 39 Eta Lupi
+15 35 29 -41 11 00 Gam Lupi
+14 19 43 -46 04 50 Iot Lupi
+15 12 17 -48 45 23 Kap1 Lupi
+15 09 11 -45 17 55 Lam Lupi
+15 18 53 -47 53 35 Mu Lupi
+15 38 23 -42 35 01 Ome Lupi
+14 51 58 -43 35 45 Omi Lupi
+15 22 07 -36 16 45 Phi1 Lupi
+15 23 28 -36 52 34 Phi2 Lupi
+15 05 28 -47 04 13 Pi Lupi
+15 40 05 -34 25 41 Psi1 Lupi
+15 43 00 -34 43 35 Psi2 Lupi
+14 38 13 -49 26 50 Rho Lupi
+14 32 57 -50 28 44 Sig Lupi
+14 26 27 -45 14 38 Tau1 Lupi
+14 26 30 -45 24 07 Tau2 Lupi
+16 06 56 -36 48 56 The Lupi
+15 12 39 -52 07 04 Zet Lupi
+09 21 21 +34 22 16 Alp Lyncis
+18 37 06 +38 47 17 Alp Lyrae
+18 50 16 +33 22 08 Bet Lyrae
+18 54 40 +36 54 20 Del2 Lyrae
+19 13 56 +39 09 18 Eta Lyrae
+18 59 08 +32 41 47 Gam Lyrae
+18 20 03 +36 04 01 Kap Lyrae
+19 00 12 +32 09 10 Lam Lyrae
+19 16 32 +38 08 34 The Lyrae
+18 44 56 +37 36 37 Zet1 Lyrae
+20 50 17 -33 45 39 Alp Microscopii
+21 18 14 -32 09 05 Eps Microscopii
+21 01 36 -32 14 17 Gam Microscopii
+21 21 05 -40 47 18 The1 Microscopii
+07 41 29 -09 33 47 Alp Monocerotis
+06 29 04 -07 02 11 Bet Monocerotis
+07 12 07 -00 30 05 Del Monocerotis
+06 24 02 +04 35 24 Eps Monocerotis
+06 15 06 -06 16 35 Gam Monocerotis
+08 08 51 -02 59 55 Zet Monocerotis
+12 37 29 -69 09 47 Alp Muscae
+12 46 36 -68 08 07 Bet Muscae
+13 02 37 -71 34 33 Del Muscae
+12 17 51 -67 59 19 Eps Muscae
+13 15 36 -67 55 15 Eta Muscae
+12 32 46 -72 09 38 Gam Muscae
+11 45 50 -66 45 23 Lam Muscae
+11 48 29 -66 50 33 Mu Muscae
+16 06 50 -45 11 12 Del Normae
+16 27 33 -47 33 57 Eps Normae
+16 03 35 -49 14 36 Eta Normae
+16 17 24 -50 04 50 Gam1 Normae
+16 20 13 -50 10 02 Gam2 Normae
+16 03 57 -57 47 20 Iot1 Normae
+16 13 53 -54 38 35 Kap Normae
+16 34 26 -44 03 20 Mu Normae
+22 46 32 -81 21 19 Bet Octantis
+14 27 46 -83 41 24 Del Octantis
+21 42 01 -77 22 02 Nu Octantis
+00 01 51 -77 02 17 The Octantis
+17 35 10 +12 33 25 Alp Ophiuchi
+17 43 43 +04 33 55 Bet Ophiuchi
+16 27 18 -18 28 03 Chi Ophiuchi
+16 14 37 -03 42 25 Del Ophiuchi
+16 18 35 -04 42 16 Eps Ophiuchi
+17 10 40 -15 43 51 Eta Ophiuchi
+17 48 09 +02 42 21 Gam Ophiuchi
+16 54 15 +10 09 27 Iot Ophiuchi
+16 57 54 +09 22 03 Kap Ophiuchi
+16 31 10 +01 58 24 Lam Ophiuchi
+17 38 07 -08 07 18 Mu Ophiuchi
+17 59 19 -09 46 25 Nu Ophiuchi
+16 32 26 -21 28 36 Ome Ophiuchi
+16 31 25 -16 37 24 Phi Ophiuchi
+16 24 24 -20 02 56 Psi Ophiuchi
+17 26 46 +04 08 10 Sig Ophiuchi
+17 22 19 -25 00 15 The Ophiuchi
+16 28 04 -08 22 57 Ups Ophiuchi
+17 21 18 -21 07 03 Xi Ophiuchi
+16 37 27 -10 34 37 Zet Ophiuchi
+05 55 26 +07 24 27 Alp Orionis
+05 14 46 -08 11 46 Bet Orionis
+05 54 41 +20 16 36 Chi1 Orionis
+06 04 13 +20 08 16 Chi2 Orionis
+05 32 15 -00 17 45 Del Orionis
+05 36 28 -01 11 57 Eps Orionis
+05 24 44 -02 23 34 Eta Orionis
+05 25 24 +06 21 14 Gam Orionis
+05 35 41 -05 54 25 Iot Orionis
+05 47 59 -09 40 06 Kap Orionis
+05 35 25 +09 56 14 Lam Orionis
+06 02 40 +09 38 50 Mu Orionis
+06 07 51 +14 46 03 Nu Orionis
+05 39 27 +04 07 26 Ome Orionis
+04 52 49 +14 15 31 Omi1 Orionis
+04 56 39 +13 31 19 Omi2 Orionis
+05 35 05 +09 29 33 Phi1 Orionis
+05 37 10 +09 17 36 Phi2 Orionis
+04 55 11 +10 09 31 Pi 1 Orionis
+04 50 53 +08 54 31 Pi 2 Orionis
+04 50 06 +06 58 11 Pi 3 Orionis
+04 51 28 +05 36 48 Pi 4 Orionis
+04 54 31 +02 26 54 Pi 5 Orionis
+04 58 49 +01 43 18 Pi 6 Orionis
+05 25 01 +01 51 02 Psi1 Orionis
+05 27 06 +03 05 58 Psi2 Orionis
+05 13 34 +02 52 00 Rho Orionis
+05 39 00 -02 35 51 Sig Orionis
+05 17 51 -06 50 22 Tau Orionis
+05 32 11 -07 17 53 Ups Orionis
+06 12 13 +14 12 27 Xi Orionis
+05 41 01 -01 56 26 Zet Orionis
+20 26 03 -56 43 07 Alp Pavonis
+20 45 25 -66 11 05 Bet Pavonis
+20 09 12 -66 10 02 Del Pavonis
+20 01 10 -72 53 48 Eps Pavonis
+17 46 13 -64 43 32 Eta Pavonis
+21 26 51 -65 20 39 Gam Pavonis
+18 57 28 -67 13 36 Kap Pavonis
+18 52 41 -62 10 52 Lam Pavonis
+18 31 50 -62 16 28 Nu Pavonis
+20 36 00 -60 33 51 Phi1 Pavonis
+18 09 04 -63 40 02 Pi Pavonis
+20 38 00 -61 30 44 Rho Pavonis
+18 23 42 -61 29 28 Xi Pavonis
+18 43 37 -71 25 22 Zet Pavonis
+23 05 01 +15 13 56 Alp Pegasi
+23 04 02 +28 06 35 Bet Pegasi
+00 14 52 +20 14 04 Chi Pegasi
+21 44 26 +09 53 53 Eps Pegasi
+22 43 14 +30 14 52 Eta Pegasi
+00 13 29 +15 12 41 Gam Pegasi
+22 07 15 +25 22 10 Iot Pegasi
+21 44 53 +25 40 05 Kap Pegasi
+22 46 46 +23 35 31 Lam Pegasi
+22 50 14 +24 37 42 Mu Pegasi
+22 05 56 +05 04 59 Nu Pegasi
+22 41 59 +29 20 01 Omi Pegasi
+22 10 12 +33 12 11 Pi 2 Pegasi
+23 58 01 +25 10 09 Psi Pegasi
+22 55 29 +08 50 33 Rho Pegasi
+23 20 53 +23 46 04 Tau Pegasi
+22 10 27 +06 13 21 The Pegasi
+23 25 38 +23 25 54 Ups Pegasi
+22 46 57 +12 11 57 Xi Pegasi
+22 41 43 +10 51 27 Zet Pegasi
+03 24 41 +49 52 43 Alp Persei
+03 08 30 +40 58 28 Bet Persei
+03 43 17 +47 48 11 Del Persei
+03 58 11 +40 01 28 Eps Persei
+02 51 04 +55 54 58 Eta Persei
+03 05 10 +53 31 32 Gam Persei
+03 09 25 +49 37 56 Iot Persei
+03 09 50 +44 52 34 Kap Persei
+04 06 57 +50 21 53 Lam Persei
+04 15 16 +48 25 18 Mu Persei
+03 45 32 +42 35 39 Nu Persei
+03 11 36 +39 37 49 Ome Persei
+03 44 38 +32 18 14 Omi Persei
+01 43 59 +50 42 49 Phi Persei
+02 59 05 +39 40 57 Pi Persei
+03 36 50 +48 12 33 Psi Persei
+03 05 30 +38 51 34 Rho Persei
+03 30 56 +48 00 44 Sig Persei
+02 54 37 +52 46 58 Tau Persei
+02 44 32 +49 14 58 The Persei
+03 59 18 +35 48 18 Xi Persei
+03 54 27 +31 53 53 Zet Persei
+00 26 32 -42 16 42 Alp Phoenicis
+01 06 18 -46 41 31 Bet Phoenicis
+01 31 27 -49 02 50 Del Phoenicis
+00 09 40 -45 43 11 Eps Phoenicis
+00 43 34 -57 26 09 Eta Phoenicis
+01 28 35 -43 17 33 Gam Phoenicis
+23 35 21 -42 35 14 Iot Phoenicis
+00 26 27 -43 39 08 Kap Phoenicis
+00 31 39 -48 46 34 Lam1 Phoenicis
+00 41 34 -46 03 27 Mu Phoenicis
+01 15 24 -45 30 18 Nu Phoenicis
+01 53 51 -46 16 41 Psi Phoenicis
+01 08 36 -55 13 09 Zet Phoenicis
+06 48 14 -61 56 50 Alp Pictoris
+05 47 24 -51 03 53 Bet Pictoris
+06 10 24 -54 58 12 Del Pictoris
+05 49 55 -56 09 56 Gam Pictoris
+22 57 55 -29 35 43 Alp Piscis Austrini
+22 31 47 -32 19 13 Bet Piscis Austrini
+22 56 14 -32 30 47 Del Piscis Austrini
+22 40 56 -27 01 03 Eps Piscis Austrini
+22 52 49 -32 50 56 Gam Piscis Austrini
+21 45 15 -33 00 10 Iot Piscis Austrini
+22 08 40 -32 57 50 Mu Piscis Austrini
+22 10 26 -32 31 25 Tau Piscis Austrini
+22 08 43 -34 01 09 Ups Piscis Austrini
+02 02 19 +02 47 15 Alp Piscium
+23 04 08 +03 50 49 Bet Piscium
+01 11 43 +21 03 40 Chi Piscium
+00 48 57 +07 36 44 Del Piscium
+01 03 13 +07 55 00 Eps Piscium
+01 31 45 +15 22 17 Eta Piscium
+23 17 25 +03 18 34 Gam Piscium
+23 40 12 +05 39 15 Iot Piscium
+23 27 11 +01 16 59 Kap Piscium
+23 42 18 +01 48 28 Lam Piscium
+01 30 27 +06 10 11 Mu Piscium
+01 41 42 +05 30 46 Nu Piscium
+23 59 34 +06 53 28 Ome Piscium
+01 45 40 +09 10 58 Omi Piscium
+01 14 01 +24 36 36 Phi Piscium
+01 11 57 +30 06 58 Tau Piscium
+23 28 13 +06 24 23 The Piscium
+01 19 45 +27 17 25 Ups Piscium
+01 53 49 +03 12 43 Xi Piscium
+06 37 55 -43 12 02 Nu Puppis
+07 48 17 -25 57 00 Omi Puppis
+07 17 20 -37 06 24 Pi Puppis
+08 07 46 -24 19 08 Rho Puppis
+07 29 24 -43 18 43 Sig Puppis
+06 50 03 -50 37 15 Tau Puppis
+07 49 31 -24 52 21 Xi Puppis
+08 03 46 -40 01 03 Zet Puppis
+08 43 48 -33 12 17 Alp Pyxidis
+08 40 18 -35 19 34 Bet Pyxidis
+08 55 45 -27 42 04 Del Pyxidis
+08 50 45 -27 43 44 Gam Pyxidis
+09 08 16 -25 52 43 Kap Pyxidis
+09 23 25 -28 51 20 Lam Pyxidis
+09 21 43 -25 59 13 The Pyxidis
+08 39 55 -29 34 44 Zet Pyxidis
+04 14 30 -62 27 41 Alp Reticuli
+03 44 16 -64 47 29 Bet Reticuli
+03 58 50 -61 23 10 Del Reticuli
+04 16 34 -59 17 23 Eps Reticuli
+04 00 58 -62 08 44 Gam Reticuli
+04 01 23 -61 03 54 Iot Reticuli
+03 29 28 -62 55 14 Kap Reticuli
+19 40 19 +18 01 32 Alp Sagittae
+19 41 16 +17 29 17 Bet Sagittae
+19 47 36 +18 32 48 Del Sagittae
+19 58 58 +19 30 22 Gam Sagittae
+19 24 14 -40 36 22 Alp Sagittarii
+19 23 00 -44 26 57 Bet1 Sagittarii
+19 23 35 -44 47 23 Bet2 Sagittarii
+18 21 19 -29 49 32 Del Sagittarii
+18 24 30 -34 22 54 Eps Sagittarii
+18 17 58 -36 45 34 Eta Sagittarii
+18 05 20 -29 34 46 Gam1 Sagittarii
+18 06 08 -30 25 24 Gam2 Sagittarii
+19 55 37 -41 51 18 Iot Sagittarii
+18 28 17 -25 25 06 Lam Sagittarii
+18 14 04 -21 03 26 Mu Sagittarii
+18 54 28 -22 44 19 Nu 1 Sagittarii
+18 55 25 -22 39 53 Nu 2 Sagittarii
+19 56 08 -26 17 09 Ome Sagittarii
+19 04 59 -21 44 02 Omi Sagittarii
+18 45 58 -26 59 07 Phi Sagittarii
+19 10 04 -21 00 55 Pi Sagittarii
+19 15 50 -25 14 52 Psi Sagittarii
+19 21 57 -17 50 15 Rho1 Sagittarii
+18 55 35 -26 17 24 Sig Sagittarii
+19 07 15 -27 39 45 Tau Sagittarii
+20 00 03 -35 15 45 The1 Sagittarii
+19 22 01 -15 56 43 Ups Sagittarii
+18 58 02 -21 05 59 Xi 2 Sagittarii
+19 02 56 -29 52 22 Zet Sagittarii
+16 29 42 -26 26 34 Alp Scorpii
+16 05 43 -19 49 08 Bet1 Scorpii
+16 05 44 -19 48 55 Bet2 Scorpii
+16 00 38 -22 38 08 Del Scorpii
+16 50 30 -34 18 06 Eps Scorpii
+17 12 31 -43 14 42 Eta Scorpii
+17 47 56 -40 07 42 Iot1 Scorpii
+17 50 32 -40 05 30 Iot2 Scorpii
+17 42 50 -39 01 56 Kap Scorpii
+17 33 57 -37 06 26 Lam Scorpii
+16 52 12 -38 03 20 Mu 1 Scorpii
+16 52 40 -38 01 32 Mu 2 Scorpii
+16 12 17 -19 28 23 Nu Scorpii
+16 07 06 -20 40 57 Ome1 Scorpii
+16 07 42 -20 52 54 Ome2 Scorpii
+16 20 56 -24 10 52 Omi Scorpii
+15 59 09 -26 07 42 Pi Scorpii
+16 12 16 -10 04 36 Psi Scorpii
+15 57 12 -29 13 42 Rho Scorpii
+16 21 29 -25 36 16 Sig Scorpii
+16 36 12 -28 13 34 Tau Scorpii
+17 37 41 -43 00 02 The Scorpii
+17 31 06 -37 17 58 Ups Scorpii
+16 04 39 -11 23 11 Xi Scorpii
+16 54 21 -42 22 12 Zet1 Scorpii
+16 54 56 -42 22 09 Zet2 Scorpii
+00 58 50 -29 19 50 Alp Sculptoris
+23 33 14 -37 47 26 Bet Sculptoris
+23 49 12 -28 06 09 Del Sculptoris
+00 28 11 -32 58 47 Eta Sculptoris
+23 19 05 -32 30 16 Gam Sculptoris
+18 35 28 -08 14 24 Alp Scuti
+18 47 27 -04 44 32 Bet Scuti
+18 42 32 -09 02 51 Del Scuti
+18 43 47 -08 16 12 Eps Scuti
+18 57 20 -05 50 21 Eta Scuti
+18 29 29 -14 33 44 Gam Scuti
+18 23 56 -08 55 53 Zet Scuti
+15 44 31 +06 24 36 Alp Serpentis
+15 46 25 +15 24 24 Bet Serpentis
+15 35 02 +10 31 22 Del Serpentis
+15 51 04 +04 27 46 Eps Serpentis
+18 21 35 -02 53 47 Eta Serpentis
+15 56 41 +15 38 51 Gam Serpentis
+15 41 46 +19 39 16 Iot Serpentis
+15 48 58 +18 07 36 Kap Serpentis
+15 46 42 +07 20 16 Lam Serpentis
+15 49 53 -03 26 43 Mu Serpentis
+17 21 07 -12 51 06 Nu Serpentis
+17 41 42 -12 52 39 Omi Serpentis
+16 02 31 +22 47 27 Pi Serpentis
+15 51 29 +20 57 47 Rho Serpentis
+16 22 19 +01 01 03 Sig Serpentis
+18 56 28 +04 12 37 The1 Serpentis
+18 56 30 +04 12 31 The2 Serpentis
+17 37 52 -15 24 05 Xi Serpentis
+18 00 45 -03 41 25 Zet Serpentis
+10 08 11 -00 23 46 Alp Sextantis
+04 36 12 +16 31 09 Alp Tauri
+05 26 37 +28 36 42 Bet Tauri
+04 23 13 +17 33 14 Del1 Tauri
+04 24 23 +17 27 19 Del2 Tauri
+04 25 46 +17 56 21 Del3 Tauri
+04 28 55 +19 11 28 Eps Tauri
+03 47 47 +24 07 13 Eta Tauri
+04 20 05 +15 38 21 Gam Tauri
+05 03 24 +21 35 49 Iot Tauri
+04 25 40 +22 18 18 Kap1 Tauri
+04 00 58 +12 30 15 Lam Tauri
+04 15 48 +08 54 16 Mu Tauri
+04 03 25 +06 00 10 Nu Tauri
+04 17 34 +20 35 26 Ome2 Tauri
+03 25 05 +09 02 47 Omi Tauri
+04 20 40 +27 21 45 Phi Tauri
+04 26 53 +14 43 29 Pi Tauri
+04 34 08 +14 51 17 Rho Tauri
+04 39 34 +15 55 40 Sig2 Tauri
+04 42 33 +22 57 58 Tau Tauri
+04 28 52 +15 58 23 The1 Tauri
+04 28 57 +15 52 54 The2 Tauri
+04 26 37 +22 49 29 Ups Tauri
+03 27 26 +09 45 00 Xi Tauri
+05 37 57 +21 08 43 Zet Tauri
+18 27 20 -45 57 54 Alp Telescopii
+18 32 07 -45 54 40 Del1 Telescopii
+18 11 36 -45 57 11 Eps Telescopii
+19 35 35 -48 05 17 Iot Telescopii
+18 58 52 -52 55 54 Lam Telescopii
+20 07 46 -52 51 58 Xi Telescopii
+18 29 13 -49 04 02 Zet Telescopii
+01 53 22 +29 36 12 Alp Trianguli
+02 09 51 +35 00 39 Bet Trianguli
+02 17 21 +34 14 50 Del Trianguli
+02 17 37 +33 52 13 Gam Trianguli
+16 49 12 -69 02 11 Alp Trianguli Australis
+15 55 36 -63 26 42 Bet Trianguli Australis
+16 15 54 -63 41 52 Del Trianguli Australis
+15 37 11 -66 20 00 Eps Trianguli Australis
+15 19 23 -68 41 51 Gam Trianguli Australis
+16 29 00 -70 05 43 Zet Trianguli Australis
+22 18 50 -60 14 04 Alp Tucanae
+00 31 47 -62 55 50 Bet1 Tucanae
+00 31 48 -62 56 18 Bet2 Tucanae
+22 27 41 -64 56 27 Del Tucanae
+24 00 10 -65 32 58 Eps Tucanae
+23 17 43 -58 12 31 Gam Tucanae
+01 15 56 -68 50 59 Kap Tucanae
+22 33 20 -61 57 23 Nu Tucanae
+00 20 18 -64 50 49 Zet Tucanae
+11 04 02 +61 43 26 Alp Ursae Majoris
+11 02 09 +56 21 20 Bet Ursae Majoris
+11 46 19 +47 45 06 Chi Ursae Majoris
+12 15 41 +57 00 17 Del Ursae Majoris
+12 54 15 +55 55 58 Eps Ursae Majoris
+13 47 44 +49 17 19 Eta Ursae Majoris
+11 54 06 +53 40 01 Gam Ursae Majoris
+08 59 33 +48 01 19 Iot Ursae Majoris
+09 03 58 +47 08 12 Kap Ursae Majoris
+10 17 24 +42 53 22 Lam Ursae Majoris
+10 22 38 +41 28 27 Mu Ursae Majoris
+11 18 45 +33 04 00 Nu Ursae Majoris
+10 54 16 +43 09 48 Ome Ursae Majoris
+08 30 41 +60 42 04 Omi Ursae Majoris
+09 52 26 +54 02 27 Phi Ursae Majoris
+08 40 39 +64 18 36 Pi 2 Ursae Majoris
+11 09 57 +44 28 17 Psi Ursae Majoris
+09 03 00 +67 36 35 Rho Ursae Majoris
+09 10 49 +67 06 51 Sig2 Ursae Majoris
+09 11 19 +63 29 35 Tau Ursae Majoris
+09 33 11 +51 39 18 The Ursae Majoris
+09 51 20 +59 00 54 Ups Ursae Majoris
+11 18 27 +31 30 06 Xi Ursae Majoris
+13 24 08 +54 53 57 Zet Ursae Majoris
+02 37 24 +89 17 10 Alp Ursae Minoris
+14 50 41 +74 08 06 Bet Ursae Minoris
+17 30 37 +86 34 59 Del Ursae Minoris
+16 45 28 +82 01 42 Eps Ursae Minoris
+16 17 22 +75 44 36 Eta Ursae Minoris
+15 20 44 +71 48 58 Gam Ursae Minoris
+15 31 17 +77 19 57 The Ursae Minoris
+15 43 54 +77 46 44 Zet Ursae Minoris
+08 44 50 -54 43 36 Del Velorum
+08 09 38 -47 21 39 Gam1 Velorum
+08 09 41 -47 21 06 Gam2 Velorum
+09 22 16 -55 01 56 Kap Velorum
+09 08 11 -43 27 10 Lam Velorum
+10 46 59 -49 26 47 Mu Velorum
+09 57 03 -54 35 30 Phi Velorum
+09 30 54 -40 29 20 Psi Velorum
+13 25 28 -11 11 14 Alp Virginis
+11 50 57 +01 44 13 Bet Virginis
+12 39 31 -08 01 23 Chi Virginis
+12 55 51 +03 22 14 Del Virginis
+13 02 26 +10 55 56 Eps Virginis
+12 20 09 -00 41 41 Eta Virginis
+12 41 55 -01 28 37 Gam Virginis
+14 16 17 -06 01 25 Iot Virginis
+14 13 10 -10 17 49 Kap Virginis
+14 19 23 -13 23 38 Lam Virginis
+14 43 20 -05 40 46 Mu Virginis
+11 46 07 +06 30 06 Nu Virginis
+12 05 28 +08 42 19 Omi Virginis
+14 28 28 -02 15 01 Phi Virginis
+12 01 07 +06 35 11 Pi Virginis
+12 54 37 -09 33 57 Psi Virginis
+12 42 08 +10 12 29 Rho Virginis
+13 17 51 +05 26 36 Sig Virginis
+14 01 54 +01 31 14 Tau Virginis
+13 10 13 -05 33 56 The Virginis
+11 45 32 +08 13 50 Xi Virginis
+13 34 57 -00 37 17 Zet Virginis
+09 02 32 -66 24 58 Alp Volantis
+08 25 47 -66 09 13 Bet Volantis
+07 16 50 -67 57 59 Del Volantis
+08 07 57 -68 37 55 Eps Volantis
+07 08 42 -70 30 26 Gam2 Volantis
+07 41 45 -72 37 05 Zet Volantis
+19 28 55 +24 40 32 Alp Vulpeculae

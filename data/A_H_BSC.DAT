@@ -1,0 +1,535 @@
+00 08 39 +29 07 06 Alp Andromedae
+01 10 01 +35 38 50 Bet Andromedae
+01 39 39 +44 24 41 Chi Andromedae
+00 39 36 +30 53 18 Del Andromedae
+00 38 49 +29 20 21 Eps Andromedae
+00 57 28 +23 26 40 Eta Andromedae
+02 04 13 +42 21 13 Gam1 Andromedae
+02 04 14 +42 21 17 Gam2 Andromedae
+23 38 23 +43 17 45 Iot Andromedae
+23 40 40 +44 21 42 Kap Andromedae
+23 37 49 +46 29 09 Lam Andromedae
+00 57 02 +38 31 35 Mu Andromedae
+00 50 06 +41 06 22 Nu Andromedae
+01 27 57 +45 25 57 Ome Andromedae
+23 02 09 +42 21 11 Omi Andromedae
+01 09 48 +47 16 07 Phi Andromedae
+00 37 09 +33 44 49 Pi Andromedae
+23 46 17 +46 26 53 Psi Andromedae
+00 18 36 +36 48 47 Sig Andromedae
+01 40 53 +40 36 08 Tau Andromedae
+00 17 22 +38 42 34 The Andromedae
+01 37 06 +41 25 51 Ups Andromedae
+01 22 38 +45 33 18 Xi Andromedae
+00 47 36 +24 17 40 Zet Andromedae
+10 27 23 -31 05 36 Alp Antliae
+09 29 27 -35 58 24 Eps Antliae
+10 56 57 -37 09 52 Iot Antliae
+09 44 25 -27 47 33 The Antliae
+14 48 30 -79 03 56 Alp Apodis
+16 43 49 -77 31 36 Bet Apodis
+16 21 07 -78 42 27 Del1 Apodis
+14 18 53 -81 01 51 Eta Apodis
+16 34 14 -78 54 27 Gam Apodis
+17 22 30 -67 46 31 Zet Apodis
+22 06 02 -00 17 43 Alp Aquarii
+21 31 50 -05 32 56 Bet Aquarii
+22 54 55 -15 47 39 Del Aquarii
+20 47 57 -09 28 38 Eps Aquarii
+22 35 36 -00 05 30 Eta Aquarii
+22 21 54 -01 21 43 Gam Aquarii
+22 06 42 -13 50 43 Iot Aquarii
+22 52 53 -07 33 11 Lam Aquarii
+20 52 55 -08 57 51 Mu Aquarii
+21 09 52 -11 21 04 Nu Aquarii
+23 42 59 -14 31 02 Ome2 Aquarii
+22 03 34 -02 07 51 Omi Aquarii
+23 14 35 -06 01 18 Phi Aquarii
+22 25 32 +01 24 11 Pi Aquarii
+23 16 10 -09 03 38 Psi1 Aquarii
+23 18 10 -09 09 18 Psi2 Aquarii
+23 19 14 -09 35 00 Psi3 Aquarii
+22 30 55 -10 39 08 Sig Aquarii
+22 49 52 -13 33 57 Tau2 Aquarii
+22 17 06 -07 45 30 The Aquarii
+21 38 01 -07 49 53 Xi Aquarii
+22 29 05 +00 00 19 Zet1 Aquarii
+22 29 05 +00 00 20 Zet2 Aquarii
+19 51 01 +08 52 53 Alp Aquilae
+19 55 34 +06 25 12 Bet Aquilae
+19 25 45 +03 07 30 Del Aquilae
+18 59 51 +15 04 32 Eps Aquilae
+19 52 43 +01 01 07 Eta Aquilae
+19 46 30 +10 37 33 Gam Aquilae
+19 36 59 -01 16 30 Iot Aquilae
+19 37 10 -07 00 58 Kap Aquilae
+19 06 31 -04 52 28 Lam Aquilae
+19 34 20 +07 23 24 Mu Aquilae
+19 26 46 +00 20 56 Nu Aquilae
+20 14 31 +15 12 46 Rho Aquilae
+20 11 33 -00 48 23 The Aquilae
+19 54 30 +08 28 29 Xi Aquilae
+19 05 39 +13 52 16 Zet Aquilae
+17 32 14 -49 52 46 Alp Arae
+17 25 43 -55 32 03 Bet Arae
+17 31 33 -60 41 15 Del Arae
+16 59 59 -53 10 04 Eps1 Arae
+16 50 13 -59 02 59 Eta Arae
+17 25 49 -56 22 54 Gam Arae
+17 40 47 -49 25 05 Lam Arae
+17 36 02 -46 30 31 Sig Arae
+18 07 01 -50 05 27 The Arae
+16 59 02 -55 59 52 Zet Arae
+02 07 27 +23 29 10 Alp Arietis
+01 54 55 +20 49 57 Bet Arietis
+03 11 55 +19 44 43 Del Arietis
+02 59 30 +21 21 36 Eps Arietis
+01 53 48 +19 19 13 Gam1 Arietis
+01 53 48 +19 19 05 Gam2 Arietis
+01 58 13 +23 37 13 Lam Arietis
+03 15 11 +21 03 46 Zet Arietis
+05 17 03 +46 00 12 Alp Aurigae
+05 59 54 +44 56 51 Bet Aurigae
+05 33 04 +32 11 43 Chi Aurigae
+05 59 57 +54 17 05 Del Aurigae
+05 02 20 +43 49 49 Eps Aurigae
+05 06 52 +41 14 27 Eta Aurigae
+04 57 20 +33 10 25 Iot Aurigae
+06 15 42 +29 29 46 Kap Aurigae
+05 19 30 +40 06 15 Lam Aurigae
+05 13 47 +38 29 24 Mu Aurigae
+05 51 50 +39 08 59 Nu Aurigae
+04 59 35 +37 53 51 Ome Aurigae
+06 00 18 +45 56 13 Pi Aurigae
+06 25 17 +49 17 06 Psi1 Aurigae
+06 39 41 +42 29 03 Psi2 Aurigae
+05 24 59 +37 23 23 Sig Aurigae
+05 49 32 +39 10 57 Tau Aurigae
+06 00 03 +37 12 45 The Aurigae
+05 51 22 +37 18 24 Ups Aurigae
+05 55 16 +55 42 27 Xi Aurigae
+05 02 50 +41 04 58 Zet Aurigae
+14 15 54 +19 09 34 Alp Bootis
+15 02 08 +40 22 16 Bet Bootis
+15 15 42 +33 17 47 Del Bootis
+14 45 12 +27 03 12 Eps Bootis
+13 54 55 +18 22 24 Eta Bootis
+14 32 17 +38 17 11 Gam Bootis
+14 16 21 +51 20 39 Iot Bootis
+14 13 40 +51 46 01 Kap2 Bootis
+14 16 34 +46 03 55 Lam Bootis
+15 24 40 +37 21 35 Mu 1 Bootis
+15 02 20 +24 59 19 Ome Bootis
+14 45 29 +16 56 37 Omi Bootis
+14 40 58 +16 23 49 Pi 1 Bootis
+15 04 40 +26 55 42 Psi Bootis
+14 32 03 +30 20 58 Rho Bootis
+14 34 54 +29 43 24 Sig Bootis
+13 47 30 +17 25 55 Tau Bootis
+14 25 22 +51 49 42 The Bootis
+13 49 44 +15 46 23 Ups Bootis
+14 51 37 +19 04 51 Xi Bootis
+14 41 23 +13 42 26 Zet Bootis
+04 40 44 -41 51 16 Alp Caeli
+05 04 35 -35 28 36 Gam1 Caeli
+04 54 33 +66 21 02 Alp Camelopardalis
+05 03 52 +60 26 56 Bet Camelopardalis
+03 50 54 +71 20 50 Gam Camelopardalis
+08 58 45 +11 50 18 Alp Cancri
+08 16 47 +09 10 12 Bet Cancri
+08 44 58 +18 08 09 Del Cancri
+08 43 34 +21 27 01 Gam Cancri
+08 47 00 +28 44 29 Iot Cancri
+12 56 16 +38 17 29 Alp2 Canes Venaticorum
+12 34 00 +41 19 48 Bet Canes Venaticorum
+06 45 22 -16 43 18 Alp Canis Majoris
+06 22 55 -17 57 31 Bet Canis Majoris
+07 08 36 -26 24 05 Del Canis Majoris
+06 58 50 -28 58 45 Eps Canis Majoris
+07 24 18 -29 18 47 Eta Canis Majoris
+07 04 00 -15 38 28 Gam Canis Majoris
+06 56 21 -17 03 39 Iot Canis Majoris
+06 50 02 -32 30 53 Kap Canis Majoris
+06 28 21 -32 35 00 Lam Canis Majoris
+06 36 54 -19 15 37 Nu 2 Canis Majoris
+06 38 06 -18 14 31 Nu 3 Canis Majoris
+07 15 01 -26 46 54 Ome Canis Majoris
+06 54 20 -24 11 25 Omi1 Canis Majoris
+07 03 15 -23 50 27 Omi2 Canis Majoris
+06 55 50 -20 08 35 Pi Canis Majoris
+07 01 55 -27 56 32 Sig Canis Majoris
+07 18 54 -24 57 49 Tau Canis Majoris
+06 54 25 -12 02 42 The Canis Majoris
+06 32 04 -23 25 20 Xi 1 Canis Majoris
+06 35 16 -22 58 08 Xi 2 Canis Majoris
+06 20 31 -30 03 57 Zet Canis Majoris
+07 39 34 +05 12 48 Alp Canis Minoris
+07 27 25 +08 16 45 Bet Canis Minoris
+07 25 55 +09 15 57 Eps Canis Minoris
+07 28 26 +08 54 54 Gam Canis Minoris
+20 17 56 -12 29 33 Alp1 Capricorni
+20 18 20 -12 31 44 Alp2 Capricorni
+20 21 18 -14 45 55 Bet Capricorni
+21 47 18 -16 06 14 Del Capricorni
+21 37 22 -19 26 37 Eps Capricorni
+21 04 41 -19 50 06 Eta Capricorni
+21 40 23 -16 38 22 Gam Capricorni
+21 22 32 -16 48 47 Iot Capricorni
+21 42 57 -18 50 36 Kap Capricorni
+20 20 57 -12 44 35 Nu Capricorni
+20 52 07 -26 54 01 Ome Capricorni
+20 46 24 -25 15 09 Psi Capricorni
+20 29 09 -17 47 48 Rho Capricorni
+21 06 14 -17 12 45 The Capricorni
+21 26 57 -22 23 22 Zet Capricorni
+06 24 04 -52 41 55 Alp Carinae
+09 13 15 -69 44 17 Bet Carinae
+07 56 55 -52 59 45 Chi Carinae
+08 22 37 -59 31 33 Eps Carinae
+09 17 13 -59 17 47 Iot Carinae
+10 13 51 -70 03 47 Ome Carinae
+10 43 08 -64 25 15 The Carinae
+09 47 13 -65 05 43 Ups Carinae
+00 40 48 +56 33 53 Alp Cassiopeiae
+00 09 27 +59 10 39 Bet Cassiopeiae
+01 34 16 +59 15 27 Chi Cassiopeiae
+01 26 09 +60 15 40 Del Cassiopeiae
+01 54 46 +63 41 40 Eps Cassiopeiae
+00 49 24 +57 50 35 Eta Cassiopeiae
+00 57 01 +60 44 37 Gam Cassiopeiae
+02 29 29 +67 25 29 Iot Cassiopeiae
+00 33 17 +62 57 33 Kap Cassiopeiae
+00 32 03 +54 32 59 Lam Cassiopeiae
+00 49 07 +50 59 44 Nu Cassiopeiae
+01 56 24 +68 42 35 Ome Cassiopeiae
+00 45 01 +48 18 42 Omi Cassiopeiae
+01 20 24 +58 15 28 Phi Cassiopeiae
+00 43 45 +47 03 07 Pi Cassiopeiae
+01 26 17 +68 09 21 Psi Cassiopeiae
+23 54 38 +57 31 38 Rho Cassiopeiae
+23 59 16 +55 46 58 Sig Cassiopeiae
+23 47 19 +58 40 47 Tau Cassiopeiae
+01 11 24 +55 10 34 The Cassiopeiae
+00 55 18 +58 59 59 Ups1 Cassiopeiae
+00 56 58 +59 12 29 Ups2 Cassiopeiae
+00 42 21 +50 32 24 Xi Cassiopeiae
+00 37 15 +53 55 28 Zet Cassiopeiae
+14 39 59 -60 51 24 Alp1 Centauri
+14 39 59 -60 51 25 Alp2 Centauri
+14 04 10 -60 23 49 Bet Centauri
+14 06 21 -41 12 12 Chi Centauri
+12 08 38 -50 45 01 Del Centauri
+13 40 12 -53 29 30 Eps Centauri
+14 35 49 -42 10 46 Eta Centauri
+12 41 48 -48 59 14 Gam Centauri
+13 20 53 -36 44 18 Iot Centauri
+14 59 30 -42 07 26 Kap Centauri
+11 36 01 -63 02 51 Lam Centauri
+13 49 55 -42 29 55 Mu Centauri
+13 49 48 -41 42 45 Nu Centauri
+13 58 34 -42 07 30 Phi Centauri
+11 21 14 -54 31 07 Pi Centauri
+14 20 51 -37 54 29 Psi Centauri
+12 11 55 -52 23 47 Rho Centauri
+12 28 18 -50 15 29 Sig Centauri
+12 37 59 -48 34 07 Tau Centauri
+14 06 59 -36 23 37 The Centauri
+13 59 00 -44 49 40 Ups1 Centauri
+14 02 02 -45 37 39 Ups2 Centauri
+13 03 51 -49 33 14 Xi 1 Centauri
+13 07 13 -49 55 58 Xi 2 Centauri
+13 55 51 -47 18 46 Zet Centauri
+21 18 42 +62 36 24 Alp Cephei
+21 28 44 +70 34 58 Bet Cephei
+22 29 21 +58 26 27 Del Cephei
+22 15 13 +57 04 07 Eps Cephei
+20 45 23 +61 51 26 Eta Cephei
+23 39 34 +77 39 37 Gam Cephei
+22 49 52 +66 13 38 Iot Cephei
+20 08 42 +77 43 34 Kap Cephei
+21 43 39 +58 48 11 Mu Cephei
+21 45 36 +61 08 38 Nu Cephei
+23 18 50 +68 08 21 Omi Cephei
+23 08 04 +75 24 53 Pi Cephei
+20 29 40 +63 00 40 The Cephei
+22 03 56 +64 39 08 Xi Cephei
+22 11 01 +58 13 33 Zet Cephei
+03 02 33 +04 06 33 Alp Ceti
+00 43 50 -17 57 34 Bet Ceti
+01 49 50 -10 39 42 Chi Ceti
+02 39 44 +00 21 00 Del Ceti
+02 39 48 -11 51 03 Eps Ceti
+01 08 50 -10 09 20 Eta Ceti
+02 43 34 +03 15 25 Gam Ceti
+00 19 41 -08 47 46 Iot Ceti
+03 19 38 +03 23 18 Kap1 Ceti
+02 59 59 +08 55 38 Lam Ceti
+02 45 13 +10 08 06 Mu Ceti
+02 36 09 +05 36 54 Nu Ceti
+02 19 36 -02 57 17 Omi Ceti
+00 44 26 -10 34 56 Phi1 Ceti
+02 44 21 -13 50 15 Pi Ceti
+02 26 12 -12 16 05 Rho Ceti
+02 32 19 -15 13 22 Sig Ceti
+01 44 19 -15 54 45 Tau Ceti
+01 24 16 -08 09 26 The Ceti
+02 00 14 -21 03 13 Ups Ceti
+02 13 16 +08 52 12 Xi 1 Ceti
+02 28 26 +08 28 56 Xi 2 Ceti
+01 51 43 -10 18 37 Zet Ceti
+08 18 24 -76 56 08 Alp Chamaeleontis
+12 18 39 -79 20 24 Bet Chamaeleontis
+10 45 50 -80 34 00 Del2 Chamaeleontis
+11 59 52 -78 14 59 Eps Chamaeleontis
+10 35 31 -78 38 01 Gam Chamaeleontis
+08 20 30 -77 30 02 The Chamaeleontis
+14 42 55 -64 59 47 Alp Circini
+15 17 55 -58 49 09 Bet Circini
+15 18 05 -63 37 43 Eps Circini
+15 23 47 -59 20 18 Gam Circini
+05 39 50 -34 04 18 Alp Columbae
+05 51 09 -35 46 02 Bet Columbae
+06 22 18 -33 26 21 Del Columbae
+05 31 24 -35 28 01 Eps Columbae
+05 59 18 -42 48 55 Eta Columbae
+05 57 43 -35 16 59 Gam Columbae
+06 16 44 -35 08 33 Kap Columbae
+05 53 18 -33 48 02 Lam Columbae
+05 17 40 -34 53 25 Omi Columbae
+05 55 40 -37 07 13 Xi Columbae
+13 12 06 +27 51 06 Bet Comae Berenices
+12 27 11 +28 14 26 Gam Comae Berenices
+19 09 48 -37 53 46 Alp Coronae Australis
+19 10 23 -39 19 57 Bet Coronae Australis
+19 08 42 -40 29 19 Del Coronae Australis
+18 59 03 -37 06 02 Eps Coronae Australis
+19 06 45 -37 03 19 Gam Coronae Australis
+18 33 51 -42 18 30 The Coronae Australis
+19 03 28 -42 05 16 Zet Coronae Australis
+15 34 54 +26 41 54 Alp Coronae Borealis
+15 28 02 +29 05 19 Bet Coronae Borealis
+15 49 49 +26 03 12 Del Coronae Borealis
+15 57 47 +26 51 49 Eps Coronae Borealis
+15 42 58 +26 16 48 Gam Coronae Borealis
+16 01 39 +29 50 14 Iot Coronae Borealis
+15 51 25 +35 38 34 Kap Coronae Borealis
+16 09 09 +36 28 40 Tau Coronae Borealis
+15 33 08 +31 20 33 The Coronae Borealis
+16 22 18 +30 52 49 Xi Coronae Borealis
+12 08 40 -24 45 24 Alp Corvi
+12 34 39 -23 25 27 Bet Corvi
+12 30 08 -16 32 35 Del Corvi
+12 10 23 -22 38 51 Eps Corvi
+12 32 20 -16 13 25 Eta Corvi
+12 16 04 -17 34 11 Gam Corvi
+11 00 02 -18 19 33 Alp Crateris
+11 11 55 -22 51 11 Bet Crateris
+11 19 36 -14 48 22 Del Crateris
+11 24 52 -10 53 13 Eps Crateris
+11 25 08 -17 42 41 Gam Crateris
+11 36 56 -09 49 48 The Crateris
+11 45 01 -18 22 43 Zet Crateris
+12 26 53 -63 07 37 Alp1 Crucis
+12 26 54 -63 07 38 Alp2 Crucis
+12 48 01 -59 42 57 Bet Crucis
+12 15 25 -58 46 36 Del Crucis
+12 21 38 -60 25 44 Eps Crucis
+12 07 09 -64 38 29 Eta Crucis
+12 31 27 -57 08 27 Gam Crucis
+12 45 56 -61 00 30 Iot Crucis
+12 54 57 -59 10 25 Lam Crucis
+12 54 54 -57 12 17 Mu 1 Crucis
+12 03 18 -63 20 26 The1 Crucis
+12 04 35 -63 11 36 The2 Crucis
+12 18 42 -64 01 51 Zet Crucis
+20 41 36 +45 17 54 Alp Cygni
+19 30 55 +27 58 14 Bet1 Cygni
+19 50 46 +32 55 37 Chi Cygni
+19 45 08 +45 08 35 Del Cygni
+20 46 25 +33 59 19 Eps Cygni
+19 56 29 +35 05 49 Eta Cygni
+20 22 25 +40 16 22 Gam Cygni
+19 29 50 +51 44 25 Iot2 Cygni
+19 17 13 +53 22 40 Kap Cygni
+20 47 37 +36 30 34 Lam Cygni
+21 44 22 +28 45 57 Mu 1 Cygni
+20 57 21 +41 11 12 Nu Cygni
+20 30 13 +48 58 07 Ome1 Cygni
+19 39 35 +30 09 54 Phi Cygni
+21 42 17 +51 12 46 Pi 1 Cygni
+21 46 59 +49 19 58 Pi 2 Cygni
+19 55 46 +52 27 08 Psi Cygni
+21 34 10 +45 36 52 Rho Cygni
+21 17 37 +39 24 57 Sig Cygni
+21 15 00 +38 03 59 Tau Cygni
+19 36 35 +50 13 57 The Cygni
+21 18 07 +34 55 05 Ups Cygni
+21 05 07 +43 56 52 Xi Cygni
+21 13 09 +30 14 52 Zet Cygni
+20 39 52 +15 55 47 Alp Delphini
+20 37 47 +14 36 47 Bet Delphini
+20 43 42 +15 05 34 Del Delphini
+20 33 27 +11 19 14 Eps Delphini
+20 46 54 +16 08 34 Gam2 Delphini
+20 35 33 +14 41 30 Zet Delphini
+04 34 06 -55 02 05 Alp Doradus
+05 33 41 -62 29 11 Bet Doradus
+05 44 47 -65 44 01 Del Doradus
+04 16 10 -51 28 28 Gam Doradus
+05 13 45 -67 10 47 The Doradus
+05 05 36 -57 27 58 Zet Doradus
+14 04 31 +64 21 07 Alp Draconis
+17 30 33 +52 17 52 Bet Draconis
+18 20 57 +72 44 07 Chi Draconis
+19 12 33 +67 40 13 Del Draconis
+19 48 09 +70 16 50 Eps Draconis
+16 24 04 +61 30 10 Eta Draconis
+17 56 43 +51 29 19 Gam Draconis
+15 25 03 +58 56 55 Iot Draconis
+12 33 42 +69 45 39 Kap Draconis
+11 31 42 +69 18 13 Lam Draconis
+17 32 17 +55 10 51 Nu 1 Draconis
+17 32 22 +55 10 11 Nu 2 Draconis
+17 36 55 +68 45 19 Ome Draconis
+18 51 16 +59 23 40 Omi Draconis
+18 20 42 +71 20 25 Phi Draconis
+19 20 41 +65 43 28 Pi Draconis
+17 41 51 +72 08 48 Psi1 Draconis
+20 02 50 +67 53 16 Rho Draconis
+19 32 21 +69 40 19 Sig Draconis
+19 15 27 +73 21 52 Tau Draconis
+16 01 59 +58 33 06 The Draconis
+18 54 20 +71 18 14 Ups Draconis
+17 53 37 +56 52 19 Xi Draconis
+17 08 48 +65 42 31 Zet Draconis
+21 16 04 +05 16 08 Alp Equulei
+21 14 44 +10 01 40 Del Equulei
+21 10 36 +10 09 08 Gam Equulei
+01 37 54 -57 12 41 Alp Eridani
+05 08 06 -05 04 48 Bet Eridani
+01 56 09 -51 35 04 Chi Eridani
+03 43 29 -09 44 52 Del Eridani
+03 33 10 -09 26 30 Eps Eridani
+02 56 41 -08 52 41 Eta Eridani
+03 58 16 -13 29 40 Gam Eridani
+02 40 52 -39 50 03 Iot Eridani
+02 27 10 -47 40 54 Kap Eridani
+05 09 23 -08 44 53 Lam Eridani
+04 45 45 -03 14 45 Mu Eridani
+04 36 34 -03 20 33 Nu Eridani
+04 53 09 -05 26 41 Ome Eridani
+04 12 07 -06 49 29 Omi1 Eridani
+04 15 31 -07 38 26 Omi2 Eridani
+02 16 42 -51 29 21 Phi Eridani
+03 46 23 -12 05 11 Pi Eridani
+05 01 41 -07 10 01 Psi Eridani
+02 45 20 -18 33 06 Tau1 Eridani
+02 51 16 -20 59 01 Tau2 Eridani
+03 02 37 -23 36 18 Tau3 Eridani
+03 19 44 -21 44 23 Tau4 Eridani
+03 34 00 -21 36 58 Tau5 Eridani
+03 47 04 -23 14 04 Tau6 Eridani
+03 53 56 -24 35 53 Tau8 Eridani
+04 00 09 -24 00 09 Tau9 Eridani
+02 58 27 -40 17 06 The1 Eridani
+02 58 27 -40 17 05 The2 Eridani
+04 33 43 -29 45 23 Ups1 Eridani
+04 35 45 -30 33 08 Ups2 Eridani
+04 18 05 -33 47 11 Ups4 Eridani
+03 16 05 -08 48 05 Zet Eridani
+03 12 17 -28 58 06 Alp Fornacis
+02 49 18 -32 23 07 Bet Fornacis
+02 04 42 -29 16 23 Nu Fornacis
+02 34 04 -28 12 39 Ome Fornacis
+07 34 55 +31 52 38 Alp Geminorum
+07 45 38 +28 00 50 Bet Geminorum
+08 03 49 +27 46 48 Chi Geminorum
+07 20 25 +21 58 22 Del Geminorum
+06 44 14 +25 07 33 Eps Geminorum
+06 15 11 +22 30 17 Eta Geminorum
+06 38 00 +16 23 41 Gam Geminorum
+07 26 03 +27 47 16 Iot Geminorum
+07 44 45 +24 23 09 Kap Geminorum
+07 18 23 +16 31 52 Lam Geminorum
+06 23 16 +22 30 39 Mu Geminorum
+06 29 16 +20 12 31 Nu Geminorum
+07 39 30 +34 34 21 Omi Geminorum
+07 53 48 +26 45 09 Phi Geminorum
+07 29 26 +31 46 26 Rho Geminorum
+07 43 38 +28 52 17 Sig Geminorum
+07 11 27 +30 14 12 Tau Geminorum
+06 53 07 +33 57 17 The Geminorum
+07 36 13 +26 53 04 Ups Geminorum
+06 45 34 +12 53 24 Xi Geminorum
+07 04 25 +20 33 45 Zet Geminorum
+22 08 33 -46 56 11 Alp Gruis
+22 42 58 -46 51 30 Bet Gruis
+22 29 34 -43 28 12 Del1 Gruis
+22 30 04 -43 43 25 Del2 Gruis
+22 48 51 -51 17 26 Eps Gruis
+22 45 56 -53 28 26 Eta Gruis
+21 54 14 -37 20 29 Gam Gruis
+23 10 39 -45 13 10 Iot Gruis
+22 06 25 -39 31 08 Lam Gruis
+22 15 55 -41 19 18 Mu 1 Gruis
+22 43 47 -41 23 17 Rho Gruis
+23 07 10 -43 29 36 The Gruis
+23 01 11 -52 43 38 Zet Gruis
+17 14 53 +14 23 05 Alp1 Herculis
+16 30 26 +21 28 45 Bet Herculis
+15 52 51 +42 26 13 Chi Herculis
+17 15 14 +24 50 01 Del Herculis
+17 00 29 +30 55 09 Eps Herculis
+16 43 04 +38 54 47 Eta Herculis
+16 22 08 +19 08 29 Gam Herculis
+17 39 36 +46 00 14 Iot Herculis
+17 30 56 +26 06 25 Lam Herculis
+17 46 40 +27 43 08 Mu Herculis
+17 58 41 +30 11 21 Nu Herculis
+16 25 39 +14 01 20 Ome Herculis
+18 07 45 +28 45 48 Omi Herculis
+16 08 55 +44 55 19 Phi Herculis
+17 15 13 +36 48 13 Pi Herculis
+17 23 51 +37 08 29 Rho Herculis
+16 34 16 +42 25 36 Sig Herculis
+16 19 53 +46 18 06 Tau Herculis
+17 56 25 +37 15 00 The Herculis
+16 02 57 +46 01 23 Ups Herculis
+17 57 58 +29 14 51 Xi Herculis
+16 41 29 +31 35 37 Zet Herculis
+04 14 10 -42 16 55 Alp Horologii
+02 58 54 -64 03 06 Bet Horologii
+04 11 01 -41 58 51 Del Horologii
+09 27 50 -08 40 50 Alp Hydrae
+11 53 10 -33 56 09 Bet Hydrae
+11 05 35 -27 19 14 Chi1 Hydrae
+08 37 55 +05 41 09 Del Hydrae
+08 47 03 +06 24 01 Eps Hydrae
+08 43 30 +03 22 50 Eta Hydrae
+13 19 11 -23 11 52 Gam Hydrae
+09 40 06 -01 09 56 Iot Hydrae
+10 10 50 -12 22 44 Lam Hydrae
+10 26 20 -16 51 43 Mu Hydrae
+10 49 53 -16 13 13 Nu Hydrae
+09 06 14 +05 04 19 Ome Hydrae
+11 40 28 -34 46 21 Omi Hydrae
+10 38 50 -16 54 10 Phi3 Hydrae
+14 06 39 -26 42 22 Pi Hydrae
+13 09 19 -23 08 41 Psi Hydrae
+08 48 42 +05 49 09 Rho Hydrae
+08 39 01 +03 19 25 Sig Hydrae
+09 29 24 -02 47 27 Tau1 Hydrae
+09 32 14 -01 12 26 Tau2 Hydrae
+09 14 38 +02 17 36 The Hydrae
+09 51 43 -14 52 13 Ups1 Hydrae
+10 05 23 -13 05 21 Ups2 Hydrae
+11 33 15 -31 53 08 Xi Hydrae
+08 55 40 +05 55 35 Zet Hydrae
+01 58 55 -61 32 44 Alp Hydri
+00 25 57 -77 13 35 Bet Hydri
+02 21 50 -68 38 12 Del Hydri
+02 39 40 -68 14 44 Eps Hydri
+01 55 04 -67 37 22 Eta2 Hydri
+03 47 10 -74 13 25 Gam Hydri
+02 50 27 -75 02 47 Nu Hydri
+02 45 38 -67 35 45 Zet Hydri
